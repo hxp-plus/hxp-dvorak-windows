@@ -8,4 +8,4 @@ See: [hxp-dvorak-ubuntu](https://github.com/HUST-IBPE-HuXiping/hxp-dvorak-ubuntu
 * Reboot and login
 
 ## Hint
-For Surface pro users, you may download amd print out the sticker, which is formated in docx, and stick it onto your Type Cover.
+For Surface pro users, you may download and print out the sticker, which is formatted in docx, and stick it onto your Type Cover.
