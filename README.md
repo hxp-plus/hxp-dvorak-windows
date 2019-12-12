@@ -1,11 +1,9 @@
 # hxp-dvorak-windows
 ## The windows version of hxp-dvorak keyboard layout
-See: [hxp-dvorak-ubuntu](https://github.com/HUST-IBPE-HuXiping/hxp-dvorak-ubuntu)
 
 # Usage
+* Run kbddvp-1_2_7-i386.exe to install the programmer dvorak layout
+* Activate programmer dvorak layout according to [this tutorial](https://www.kaufmann.no/roland/dvorak/winxp.html)
+* Reboot
 * Install [AutoHotKey](https://www.autohotkey.com/)
-* Add this script in C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\
-* Reboot and login
-
-## Hint
-For Surface pro users, you may download and print out the sticker, which is formatted in docx, and stick it onto your Type Cover.
+* Run this script: hxp-dvorak.ahk
