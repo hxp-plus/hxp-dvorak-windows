@@ -9,6 +9,6 @@
 * Reboot.
 * Now you have dvorak programmmer for English and Chinese.
 * Install [AutoHotKey](https://www.autohotkey.com/).
-* Run this script: hxp-dvorak.ahk.
+* Run this script: hxp-dvorak.ahk. (HHKB.ahk is just for HHKB)
 * Now you have hxp-dvorak.
 * Note that you need to run hxp-dvorak.ahk everytime you login, until you make it autostart.
