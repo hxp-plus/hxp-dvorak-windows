@@ -5,10 +5,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 AppsKey::RControl
 RControl::PgUp
-Tab::PgDn
-CapsLock::Tab
+Tab::Esc
+CapsLock::Space
+Space::Tab
 LWin::LControl
 LControl::LWin
+Esc::CapsLock
 
 
 
