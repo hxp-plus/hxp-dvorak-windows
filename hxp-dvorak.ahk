@@ -8,8 +8,7 @@ RControl::PgUp
 Tab::Esc
 CapsLock::Space
 Space::Tab
-LWin::LControl
-LControl::LWin
+LAlt::LControl
 Esc::CapsLock
 
 
