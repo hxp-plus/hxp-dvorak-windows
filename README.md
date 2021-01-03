@@ -1,7 +1,7 @@
 # hxp-dvorak-windows
 ## The windows version of hxp-dvorak keyboard layout
 
-# Descirption of These Files
+# Descirptions of These Files
 
 `hxp-dvorak.ahk`: An AutoHotKey Script to Change
 
@@ -13,7 +13,7 @@
 
 `Modifier Keymap Editor.reg`: An registry to do the same changes above.
 
-`Microsoft Chinese IME.reg`: An registry to change the layout of Microsoft Chinese IME to dvorak-programmer.
+`Microsoft Chinese IME.reg`: An registry to change the layout of Microsoft Chinese IME to dvorak-programmer, not sure if it functions.
 
 `hxp-dvorak.exe`: An executable compiled from `hxp-dvorak.ahk`.
 
